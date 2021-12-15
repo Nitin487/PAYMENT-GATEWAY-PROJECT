@@ -1,0 +1,35 @@
+body{
+    font-style: normal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    text-decoration: rgb(60, 105, 60);
+    text-shadow: rgb(17, 0, 56);
+    color: rgb(17, 2, 7);
+    font-weight: bold;
+    background-image: url(p2.jpeg);
+    background-size: 100%;
+   
+  }
+  .content{
+    background-color: rgba(0, 0, 0, 0);
+    
+    height: 500px;
+    width: 800px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    color: rgb(8, 8, 8);
+    text-align: center;
+    font-size: 16px;
+    opacity: 0.7px;
+
+    padding: 180px;
+    margin-left: 400px;
+  }
+    .about1 {
+      color: rgb(213, 212, 240);
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      font-weight: 600;
+      text-align: center;
+      background-color: rgb(12, 11, 11);
+      
+  
+    }
